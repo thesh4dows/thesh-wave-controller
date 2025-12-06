@@ -11,13 +11,13 @@ if there is any type of problem with the device it can be repaired without a swe
 - logic board/wifi/bluetooth->esp32-s3
 - sub ghz antenna->RFM98W-433S2
 - battery
-- rfid
+- rfid-> RDM6300
 - battery protector-> tp4056
 - 10 gpio pins(females)
 - microsd slot
 - usb type-c
 - ir transceiver
-- nfc transceiver
+- nfc-> ST25R3911B-AQF
 - 5 buttons
 
 # The start of the project
