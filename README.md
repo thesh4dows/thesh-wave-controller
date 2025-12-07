@@ -16,7 +16,7 @@ if there is any type of problem with the device it can be repaired without a swe
 - 10 gpio pins(females)
 - microsd slot
 - usb type-c
-- ir transceiver
+- ir transceiver-> reciver TSOP38238, trasmiter IR LED
 - nfc-> ST25R3911B-AQF
 - 5 buttons
 
